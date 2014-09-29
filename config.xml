@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.jaywant.parab" versionCode="1" version="1.0.0">
 
-    <name>Rajan Naik</name>
+    <name>Jaywant Parab</name>
 
     <description>
         Politician's App
     </description>
 
-    <author href="emahapolitician.in" email="rajan.naik1963@yahoo.com">
+    <author href="emahapolitician.in" email="jayavantparab1@gmail.com">
         E Maha Politician
     </author>
     <preference name="phonegap-version" value="3.5.0" />
